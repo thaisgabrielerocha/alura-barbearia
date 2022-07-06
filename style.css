@@ -1,0 +1,26 @@
+#banner{
+  width: 100%;
+}
+h1{
+  text-align: center
+}
+p{
+  text-align: center;
+}
+#missao{
+  font-size: 20px
+}
+em strong {
+  color: #FF0000;
+}
+ban#ner{width: 100%;}
+ h1{text-align: center;}
+ p{text-align: center;}
+#missao{font-size: 20px;}
+em strong{COLOR: #FF0000;}
+.itens{font-style:italic;font-size:25px;}
+.beneficios{background:#FFFFFF;padding:20px;}
+.principal{background:#CCCCCC;padding:30px;}
+h2{text-align:center;}
+.imagembeneficios{width:60%;}
+ul{display:inline-block;vertical-align:top;}
